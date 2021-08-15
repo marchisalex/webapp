@@ -9,7 +9,7 @@
     <link rel="icon" href="../../favicon.ico">
 
     <title>Marchis Alex Webpage</title>
-    <img src="pic_trulli.jpg" alt="Italian Trulli">
+    <img src="eu.jpg" alt="Marchis Alex">
 
 
     <!-- Custom styles for this template -->
