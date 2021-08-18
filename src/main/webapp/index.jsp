@@ -9,7 +9,7 @@
     <link rel="icon" href="../../favicon.ico">
 
     <title>Marchis Alex Webpage</title>
-    <img src="eu.jpg" alt="Marchis Alex">
+    <img src="C:\Users\march\Desktop\githubpoze\webapp\poze" alt="Marchis Alex">
 
 
     <!-- Custom styles for this template -->
