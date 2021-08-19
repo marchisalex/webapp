@@ -62,7 +62,7 @@
         <div class="col-md-4">
             <h2>Desfasurarea proiectului pe etape</h2>
             <p> </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="#https://stackoverflow.com/questions/33999836/hide-text-leave-icon-elements" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Parere personala despre aceasta experienta</h2>
