@@ -24,14 +24,7 @@
 
 <body>
     
-function myFunction() {
-  var x = document.getElementById("myDIV");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
+
     
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
@@ -56,7 +49,7 @@ function myFunction() {
     <div class="container">
         <h1>Hello</h1>
         <p>My name is Marchis Alexandru-Augustin </p>
-        <p><a class="btn btn-primary btn-lg" onclick="myFunction()" role="button">Learn more abouth me &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" role="button">Learn more abouth me &raquo;</a></p>
     </div>
 </div>
 
