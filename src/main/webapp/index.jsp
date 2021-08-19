@@ -24,6 +24,15 @@
 
 <body>
     
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+    
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
@@ -47,7 +56,7 @@
     <div class="container">
         <h1>Hello</h1>
         <p>My name is Marchis Alexandru-Augustin </p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more abouth me &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" onclick="myFunction()" role="button">Learn more abouth me &raquo;</a></p>
     </div>
 </div>
 
@@ -62,7 +71,7 @@
         <div class="col-md-4">
             <h2>Desfasurarea proiectului pe etape</h2>
             <p> </p>
-            <p><a class="btn btn-default" href="#https://stackoverflow.com/questions/33999836/hide-text-leave-icon-elements" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Parere personala despre aceasta experienta</h2>
