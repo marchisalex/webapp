@@ -35,8 +35,6 @@
             </button>
             <a class="navbar-brand" href="#">Webpage</a>
         </div>
-        <div class="navbar-collapse collapse">
-        </div><!--/.navbar-collapse -->
     </div>
 </div>
 
