@@ -24,7 +24,7 @@
 
 <body>
 function addtext1(){
-    Text t = new Text("This is a text sample");
+    alert('dada');
 }
     
 
