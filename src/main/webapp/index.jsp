@@ -49,7 +49,7 @@
     <div class="container">
         <h1>Hello</h1>
         <p>My name is Marchis Alexandru-Augustin </p>
-        <p><a class="btn btn-primary btn-lg" role="button" color: orange;>Learn more abouth me &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" role="button" color: orange>Learn more abouth me &raquo;</a></p>
     </div>
 </div>
 
