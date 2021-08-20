@@ -23,9 +23,7 @@
 </head>
 
 <body>
-function addtext1(){
-    alert('dada');
-}
+
     
 
     
@@ -52,7 +50,7 @@ function addtext1(){
     <div class="container">
         <h1>Hello</h1>
         <p>My name is Marchis Alexandru-Augustin </p>
-        <p><a class="btn btn-primary btn-lg" role="button" onclick="addtext1()">Learn more abouth me &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" role="button">Learn more abouth me &raquo;</a></p>
     </div>
 </div>
 
@@ -71,7 +69,7 @@ function addtext1(){
         </div>
         <div class="col-md-4">
             <h2>Parere personala despre aceasta experienta</h2>
-            <p></p>
+            <p>saddadasdasdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa d fs fs fsdf ds fsdfsdfsdfsff s fs</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
