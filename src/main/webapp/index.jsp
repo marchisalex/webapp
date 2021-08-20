@@ -49,7 +49,7 @@
     <div class="container">
         <h1>Hello</h1>
         <p>My name is Marchis Alexandru-Augustin </p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more abouth me &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" role="button" color: orange;>Learn more abouth me &raquo;</a></p>
     </div>
 </div>
 
@@ -59,7 +59,7 @@
         <div class="col-md-4">
             <h2>Ce am invatat</h2>
             <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="#" role="button" color: orange;>View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Desfasurarea proiectului pe etape</h2>
