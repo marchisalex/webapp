@@ -50,8 +50,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello</h1>
-        <p>My name is Marchis Alexandru-Augustin </p>
+        <h1>Te iubesc putin</h1>
+        <p>vezi pe tik tok ultimele tik tokuri</p>
         <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/alex.marchis.3" role="button">Learn more abouth me &raquo;</a></p>
     </div>
 </div>
