@@ -52,8 +52,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>
-What I learned about devops?<br><br><br></h1>
+        <h2>
+What I learned about devops?<br><br></h2>
         <p></p>
         <img class="image" src="devops.png" width="100%" height="400px"></img>
     </div>
