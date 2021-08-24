@@ -52,7 +52,7 @@
     <div class="container">
         <h1>Hello</h1>
         <p>My name is Marchis Alexandru-Augustin </p>
-        <img class="image" src="eu2.jpeg" width="100%" height="350px"></img>
+        <img class="image" src="eu2.jpeg" width="50%" height="350px"></img>
     </div>
 </div>
 
