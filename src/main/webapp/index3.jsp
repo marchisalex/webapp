@@ -52,31 +52,15 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Te iubesc putin</h1>
-        <p>vezi pe tik tok ultimele tik tokuri</p>
-        <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/alex.marchis.3" role="button">Learn more abouth me &raquo;</a></p>
-        <img class="image" src="devops.png" width="100%" height="350px"></img>
+        <h1>
+What I learned about devops?</h1>
+        <img class="image" src="devops.png" width="100%" height="400px"></img>
     </div>
 </div>
 
 <div class="container">
     <!-- Example row of columns -->
-    <div class="row">
-        <div class="col-md-4">
-            <h2>Ce am invatat</h2>
-            <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Desfasurarea proiectului pe etape</h2>
-            <p> </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Parere personala despre aceasta experienta</h2>
-            <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
+    <p>Firstly, I learned that the manual and slow processes have been replaced by automated ones, using technologies and tools to help them run and create applications quickly and securely.</p>
     </div>
 
     <hr>
