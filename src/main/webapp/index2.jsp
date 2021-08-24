@@ -65,17 +65,37 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Ce am invatat</h2>
+            <h2>Github</h2>
             <p></p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Desfasurarea proiectului pe etape</h2>
+            <h2>Jenkins</h2>
             <p> </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Parere personala despre aceasta experienta</h2>
+            <h2>Maven</h2>
+            <p></p>
+            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+    </div>
+	
+<div class="container">
+    <!-- Example row of columns -->
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Docker</h2>
+            <p></p>
+            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Azure</h2>
+            <p> </p>
+            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Future Improvements</h2>
             <p></p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
