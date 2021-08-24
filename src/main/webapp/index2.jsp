@@ -100,7 +100,7 @@
         </div>
         <div class="col-md-4">
             <h2>Future Improvements</h2>
-	    <img class="image" src="cs.jpeg" width="200px" height="200px"></img>
+	    <img class="image" src="cs.jpg" width="200px" height="200px"></img>
             <p></p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
