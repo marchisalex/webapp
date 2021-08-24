@@ -37,6 +37,8 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="#">Devops</a>
+            <a class="navbar-brand" href="index2.jsp">Proba</a>
+            <a class="navbar-brand" href="#">Devops</a>
         </div>
         <div class="navbar-collapse collapse">
         </div><!--/.navbar-collapse -->
