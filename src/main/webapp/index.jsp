@@ -50,8 +50,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>                    Hello</h1>
-        <p>                     My name is Marchis Alexandru-Augustin </p>
+        <h1>Hello</h1>
+        <p>My name is Marchis Alexandru-Augustin </p>
         <img class="image" src="eu.jpg" width="550px" height="350px"></img>
     </div>
 </div>
