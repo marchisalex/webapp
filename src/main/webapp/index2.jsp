@@ -77,7 +77,7 @@
         </div>
         <div class="col-md-4">
             <h2>Maven</h2>
-	    <img class="image" src="maven.png" width="200px" height="200px"></img>
+	    <img class="image" src="mvn.png" width="200px" height="200px"></img>
             <p></p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
