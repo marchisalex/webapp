@@ -54,31 +54,21 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Te iubesc putin</h1>
-        <p>vezi pe tik tok ultimele tik tokuri</p>
-        <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/alex.marchis.3" role="button">Learn more abouth me &raquo;</a></p>
-        <img class="image" src="devops.png" width="100%" height="150px"></img>
+        <h2>
+What I learned about devops?<br><br></h2>
+        <p></p>
+        <img class="image" src="devops.png" width="100%" height="400px"></img>
     </div>
 </div>
 
 <div class="container">
     <!-- Example row of columns -->
-    <div class="row">
-        <div class="col-md-4">
-            <h2>Ce am invatat</h2>
-            <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Desfasurarea proiectului pe etape</h2>
-            <p> </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Parere personala despre aceasta experienta</h2>
-            <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
+    <h4>Firstly, I learned that the manual and slow processes have been replaced by automated ones, using technologies and tools to help them run and create applications quickly and securely.<br>
+        <b>Continuous integration and delivery</b> are practices that help automate the process.<br><br>
+    <b>Continuous integration</b> is the practice of automating the integration of code changes from multiple contributors into a single software project, allowing developers to frequently merge code changes into a central repository where builds and tests then run. <br>
+    <br><b>Continuous delivery</b> is an extension of continuous integration since it automatically deploys all code changes to a testing and/or production environment after the build stage. 
+
+This means that on top of automated testing, you have an automated release process and you can deploy your application any time by clicking a button.</h4>
     </div>
 
     <hr>
