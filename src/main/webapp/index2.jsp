@@ -65,19 +65,19 @@
     <div class="row">
         <div class="col-md-4">
             <h2>Github</h2>
-	    <img class="image" src="GitHub.jpg" width="100%" height="250px"></img>
+	    <img class="image" src="GitHub.jpg" width="200px" height="200px"></img>
             <p></p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Jenkins</h2>
-	    <img class="image" src="jenkins.jpg" width="100%" height="250px"></img>
+	    <img class="image" src="jenkins.jpg" width="200px" height="200px"></img>
             <p> </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Maven</h2>
-	    <img class="image" src="maven.png" width="100%" height="250px"></img>
+	    <img class="image" src="maven.png" width="200px" height="200px"></img>
             <p></p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
@@ -88,19 +88,19 @@
     <div class="row">
         <div class="col-md-4">
             <h2>Docker</h2>
-	    <img class="image" src="docker.png" width="100%" height="250px"></img>
+	    <img class="image" src="docker.png" width="200px" height="200px"></img>
             <p></p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Azure</h2>
-	    <img class="image" src="azure.png" width="100%" height="250px"></img>
+	    <img class="image" src="azure.png" width="200px" height="200px"></img>
             <p> </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Future Improvements</h2>
-	    <img class="image" src="work.png" width="100%" height="250px"></img>
+	    <img class="image" src="cs.jpeg" width="200px" height="200px"></img>
             <p></p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
