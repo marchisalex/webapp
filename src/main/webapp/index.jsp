@@ -60,19 +60,14 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Ce am invatat</h2>
+            <h2>About me...</h2>
             <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://www.facebook.com/alex.marchis.3" role="button">My Facebook profile &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://github.com/marchisalex" role="button">My Github profile &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Desfasurarea proiectului pe etape</h2>
+            <h2>Why I chose devops...</h2>
             <p> </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Parere personala despre aceasta experienta</h2>
-            <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
 
