@@ -52,7 +52,7 @@
     <div class="container">
         <h1>Hello</h1>
         <p>My name is Marchis Alexandru-Augustin </p>
-        <img class="image" src="eu.jpg" width="100%" height="350px"></img>
+        <img class="image" src="eu.jpg" width="550px" height="350px"></img>
     </div>
 </div>
 
@@ -60,19 +60,20 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Ce am invatat</h2>
-            <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <h2>About me...</h2>
+            <p>I have 21 years old and I am a student at Babes-Bolyai University.
+                I am curious, and I always like to learn new things.
+                I am a very sociable person and also I love new challenges.
+                Some links to my profiles:
+            </p>
+            <h4><a class="btn btn-default" href="https://www.facebook.com/alex.marchis.3" role="button">My Facebook profile &raquo;</a></h4>
+            <h4><a class="btn btn-default" href="https://github.com/marchisalex" role="button">My Github profile &raquo;</a></h4>
         </div>
         <div class="col-md-4">
-            <h2>Desfasurarea proiectului pe etape</h2>
-            <p> </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Parere personala despre aceasta experienta</h2>
-            <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <h2>Why I chose devops...</h2>
+            <p>One of my passions is computer science, and one of the things that fascinated me about it is continuous integration. 
+                Another passion of mine is football, where I learned to work in a team. I am a goalkeeper, I always have to communicate and help the team to reposition itself on the field.
+            So, combining my 2 passions, I found it interesting to try to see what is done as a devops.</p>
         </div>
     </div>
 
