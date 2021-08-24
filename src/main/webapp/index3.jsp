@@ -63,8 +63,8 @@ What I learned about devops?<br><br></h2>
     <!-- Example row of columns -->
     <h4>Firstly, I learned that the manual and slow processes have been replaced by automated ones, using technologies and tools to help them run and create applications quickly and securely.<br>
         <b>Continuous integration and delivery</b> are practices that help automate the process.<br><br>
-    Continuous integration is the practice of automating the integration of code changes from multiple contributors into a single software project, allowing developers to frequently merge code changes into a central repository where builds and tests then run. <br>
-    <br>Continuous delivery is an extension of continuous integration since it automatically deploys all code changes to a testing and/or production environment after the build stage. 
+    <b>Continuous integration</b> is the practice of automating the integration of code changes from multiple contributors into a single software project, allowing developers to frequently merge code changes into a central repository where builds and tests then run. <br>
+    <br><b>Continuous delivery</b> is an extension of continuous integration since it automatically deploys all code changes to a testing and/or production environment after the build stage. 
 
 This means that on top of automated testing, you have an automated release process and you can deploy your application any time by clicking a button.</h4>
     </div>
