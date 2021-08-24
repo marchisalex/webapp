@@ -36,9 +36,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.jsp">Devops</a>
-            <a class="navbar-brand" href="index2.jsp">Proba</a>
-            <a class="navbar-brand" href="index3.jsp">Alex</a>
+            <a class="navbar-brand" href="index.jsp">General Info</a>
+            <a class="navbar-brand" href="index3.jsp">DevOps</a>
+            <a class="navbar-brand" href="index2.jsp">Tools</a>
+	    <a class="navbar-brand" href="index4.jsp">Future improvements</a>
+	    <a class="navbar-brand" href="index5.jsp">Live Demo</a>
         </div>
         <div class="navbar-collapse collapse">
         </div><!--/.navbar-collapse -->
