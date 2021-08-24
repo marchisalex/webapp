@@ -44,6 +44,8 @@
         </div><!--/.navbar-collapse -->
     </div>
 </div>
+    
+<imd class="featuredImg" src="eu.jpg" width="100%"/>
 
 
 
