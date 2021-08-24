@@ -38,21 +38,24 @@
             </button>
             <a class="navbar-brand" href="index.jsp">Devops</a>
             <a class="navbar-brand" href="index2.jsp">Proba</a>
-            <a class="navbar-brand" href="index3.jsp">Devops</a>
+            <a class="navbar-brand" href="index3.jsp">Alex</a>
         </div>
         <div class="navbar-collapse collapse">
         </div><!--/.navbar-collapse -->
     </div>
 </div>
+    
+
 
 
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello</h1>
-        <p>My name is Marchis Alexandru-Augustin </p>
-        <img class="image" src="eu.jpg" width="100%" height="350px"></img>
+        <h1>Te iubesc putin</h1>
+        <p>vezi pe tik tok ultimele tik tokuri</p>
+        <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/alex.marchis.3" role="button">Learn more abouth me &raquo;</a></p>
+        <img class="image" src="devops.png" width="100%" height="150px"></img>
     </div>
 </div>
 

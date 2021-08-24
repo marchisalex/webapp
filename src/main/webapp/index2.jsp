@@ -38,7 +38,7 @@
             </button>
             <a class="navbar-brand" href="index.jsp">Devops</a>
             <a class="navbar-brand" href="index2.jsp">Proba</a>
-            <a class="navbar-brand" href="#">Alex</a>
+            <a class="navbar-brand" href="index3.jsp">Alex</a>
         </div>
         <div class="navbar-collapse collapse">
         </div><!--/.navbar-collapse -->
