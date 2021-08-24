@@ -61,10 +61,13 @@
     <div class="row">
         <div class="col-md-4">
             <h2>About me...</h2>
-            <h4>I have 21 years old and I am a student at Babes-Bolyai University.
-                I am curious, and I always like to learn new things.</h4>
-            <p><a class="btn btn-default" href="https://www.facebook.com/alex.marchis.3" role="button">My Facebook profile &raquo;</a></p>
-            <p><a class="btn btn-default" href="https://github.com/marchisalex" role="button">My Github profile &raquo;</a></p>
+            <p>I have 21 years old and I am a student at Babes-Bolyai University.
+                I am curious, and I always like to learn new things.
+                I am a very sociable person and also I love new challenges.
+                Some links to my profiles:
+            </p>
+            <h4><a class="btn btn-default" href="https://www.facebook.com/alex.marchis.3" role="button">My Facebook profile &raquo;</a></h4>
+            <h4><a class="btn btn-default" href="https://github.com/marchisalex" role="button">My Github profile &raquo;</a></h4>
         </div>
         <div class="col-md-4">
             <h2>Why I chose devops...</h2>
