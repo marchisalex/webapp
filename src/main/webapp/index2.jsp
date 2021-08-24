@@ -55,7 +55,7 @@
         <h1>Te iubesc putin</h1>
         <p>vezi pe tik tok ultimele tik tokuri</p>
         <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/alex.marchis.3" role="button">Learn more abouth me &raquo;</a></p>
-        <img class="image" src="webapp/poze/eu.jpg" width="100%"></img>
+        <img class="image" src="../poze/alex.jpg"></img>
     </div>
 </div>
 
