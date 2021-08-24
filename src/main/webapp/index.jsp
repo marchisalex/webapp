@@ -61,9 +61,9 @@
     <div class="row">
         <div class="col-md-4">
             <h2>About me...</h2>
-            <h3>I have 21 years old and I am a student at Babes-Bolyai University.
+            <h4>I have 21 years old and I am a student at Babes-Bolyai University.
             I am curious, and I always like to learn new things. One of my passions is computer science, and one of the things that fascinated me about it is continuous integration.</p>
-            <p><a class="btn btn-default" href="https://www.facebook.com/alex.marchis.3" role="button">My Facebook profile &raquo;</a></h3>
+            <p><a class="btn btn-default" href="https://www.facebook.com/alex.marchis.3" role="button">My Facebook profile &raquo;</a></h4>
             <p><a class="btn btn-default" href="https://github.com/marchisalex" role="button">My Github profile &raquo;</a></p>
         </div>
         <div class="col-md-4">
