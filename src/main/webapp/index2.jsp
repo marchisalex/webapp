@@ -45,7 +45,7 @@
     </div>
 </div>
     
-<imd class="featuredImg" src="eu.jpg" width="100%"/>
+<imd class="featuredImg" src="webapp/poze/eu.jpg" width="100%"/>
 
 
 
