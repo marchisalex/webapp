@@ -52,7 +52,7 @@
     <div class="container">
         <h1>Hello</h1>
         <p>My name is Marchis Alexandru-Augustin </p>
-        <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/alex.marchis.3" role="button">Learn more abouth me &raquo;</a></p>
+        <img class="image" src="caine.jpeg" width="100%" height="350px"></img>
     </div>
 </div>
 
