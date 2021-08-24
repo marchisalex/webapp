@@ -53,7 +53,8 @@
 <div class="jumbotron">
     <div class="container">
         <h1>
-What I learned about devops?</h1>
+What I learned about devops?<br></h1>
+        <p></p>
         <img class="image" src="devops.png" width="100%" height="400px"></img>
     </div>
 </div>
