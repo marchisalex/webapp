@@ -121,7 +121,7 @@
     </div>
 <div class="container">
 	<h2>Future Improvements</h2>
-	<img class="image" src="docker.png" width="200px" height="200px"></img>
+	<img class="image" src="cs.jpg" width="200px" height="200px"></img>
 	<p>As future improvements I would see the following:<br>
 1)
 Every time we start the virtual machines, the ip changes, so we have
