@@ -102,7 +102,7 @@
             <p>Apache Tomcat is a web server for Java server-side applications.<br>
 		    It basically make our Java Web applications to run on host and server based system and it is configured on local host port 8080.
 	    </p>
-            <p><a class="btn btn-default" href="https://docs.docker.com/engine/reference/commandline/images/" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="http://tomcat.apache.org/" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Azure</h2>
@@ -115,6 +115,7 @@
             <h2>Docker</h2>
 	    <img class="image" src="docker.png" width="200px" height="200px"></img>
             <p>Docker is essentially a toolkit that enables developers to build, deploy, run, update, and stop containers<br></p>
+<p><a class="btn btn-default" href="https://docs.docker.com/engine/reference/commandline/images/" role="button">View details &raquo;</a></p>
             
         </div>
     </div>
