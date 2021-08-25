@@ -54,10 +54,9 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Te iubesc putin</h1>
-        <p>vezi pe tik tok ultimele tik tokuri</p>
-        <p><a class="btn btn-primary btn-lg" href="https://www.facebook.com/alex.marchis.3" role="button">Learn more abouth me &raquo;</a></p>
-        <img class="image" src="caine.jpeg" width="100%" height="150px"></img>
+        <h1>Live demonstration</h1><br><br>
+        <p></p>
+        <img class="image" src="white.jpg" width="100%" height="550px"></img>
     </div>
 </div>
 
@@ -65,19 +64,19 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Ce am invatat</h2>
+            <h2></h2>
             <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://www.porsche.com/central-eastern-europe/en/_romania_/modelstart/all/?modelrange=panamera" role="button">Buyld Your Own &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Desfasurarea proiectului pe etape</h2>
+            <h2></h2>
             <p> </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://www.porsche.com/central-eastern-europe/en/_romania_/models/panamera/" role="button">All Models &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Parere personala despre aceasta experienta</h2>
+            <h2></h2>
             <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://www.porsche.com/central-eastern-europe/en/_romania_/?gclid=EAIaIQobChMImPyzmbfL8gIVSu7tCh1mCg6VEAAYASAAEgI33_D_BwE&gclsrc=aw.ds" role="button">Buy Now &raquo;</a></p>
         </div>
     </div>
 
