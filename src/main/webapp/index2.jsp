@@ -97,9 +97,10 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Docker</h2>
-	    <img class="image" src="docker.png" width="200px" height="200px"></img>
-            <p>Docker is essentially a toolkit that enables developers to build, deploy, run, update, and stop containers<br>
+            <h2>Tomcat</h2>
+	    <img class="image" src="tomcat.png" width="200px" height="200px"></img>
+            <p>Apache Tomcat is a web server for Java server-side applications.<br>
+		    It basically make our Java Web applications to run on host and server based system and it is configured on local host port 8080.
 	    </p>
             <p><a class="btn btn-default" href="https://docs.docker.com/engine/reference/commandline/images/" role="button">View details &raquo;</a></p>
         </div>
@@ -111,13 +112,9 @@
             <p><a class="btn btn-default" href="https://azure.microsoft.com/en-us/" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Future Improvements</h2>
-	    <img class="image" src="cs.jpg" width="200px" height="200px"></img>
-            <p>
-As future improvements I would see the following:<br>
-1)
-Every time we start the virtual machines, the ip changes, so we have to go into Jenkins to change the ip from Tomcat, in the job that deploys for Tomcat.<br>
-2)We need to modify so that both VMs open simultaneously, so that we don't have to open them separately.</p>
+            <h2>Docker</h2>
+	    <img class="image" src="docker.png" width="200px" height="200px"></img>
+            <p>Docker is essentially a toolkit that enables developers to build, deploy, run, update, and stop containers<br></p>
             
         </div>
     </div>
