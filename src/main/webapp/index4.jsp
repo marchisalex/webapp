@@ -56,7 +56,7 @@
     <div class="container">
         <h1>Live demonstration</h1><br><br>
         <p></p>
-        <img class="image" src="white.jpeg" width="100%" height="350px"></img>
+        <img class="image" src="white.jpg" width="100%" height="350px"></img>
     </div>
 </div>
 
