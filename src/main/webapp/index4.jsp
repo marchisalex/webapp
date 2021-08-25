@@ -39,8 +39,8 @@
             <a class="navbar-brand" href="index.jsp">General Info</a>
             <a class="navbar-brand" href="index3.jsp">DevOps</a>
             <a class="navbar-brand" href="index2.jsp">Tools</a>
-	    <a class="navbar-brand" href="index4.jsp">Future improvements</a>
-	    <a class="navbar-brand" href="index5.jsp">Live Demo</a>
+	    <a class="navbar-brand" href="index4.jsp">Live Demo</a>
+	    <a class="navbar-brand" href="index5.jsp">My overall experience</a>
         </div>
         <div class="navbar-collapse collapse">
         </div><!--/.navbar-collapse -->
