@@ -118,7 +118,7 @@ As future improvements I would see the following:<br>
 1)
 Every time we start the virtual machines, the ip changes, so we have to go into Jenkins to change the ip from Tomcat, in the job that deploys for Tomcat.<br>
 2)We need to modify so that both VMs open simultaneously, so that we don't have to open them separately.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            
         </div>
     </div>
 
