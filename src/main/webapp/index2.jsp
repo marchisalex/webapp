@@ -66,19 +66,29 @@
         <div class="col-md-4">
             <h2>Github</h2>
 	    <img class="image" src="GitHub.jpg" width="200px" height="200px"></img>
-            <p></p>
+            <p>GitHub is a provider of Internet hosting for software development and version control using Git.<br>
+	    We use github because:<br>
+	    You just fork a project, make your changes and then send them a pull request(exactly what we did for the webpage).<br>
+	    GitHub is a repository.<br>
+	    GitHub can integrate with a lot of platforms.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Jenkins</h2>
 	    <img class="image" src="jenkins.jpg" width="200px" height="200px"></img>
-            <p> </p>
+            <p>Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes.Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes.<br>
+	
+		    We used Jenkins to build and test the software project continuously. We also used Jenkins to continuously deliver the software by integrating with Tomcat.
+	</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Maven</h2>
 	    <img class="image" src="mvn.png" width="200px" height="200px"></img>
-            <p></p>
+            <p>Maven is project/build management tool.<br>
+		    Instead of downloading and placing the jars files manually in the project, we used maven to automate the process.
+		    <br>
+	</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
@@ -89,19 +99,25 @@
         <div class="col-md-4">
             <h2>Docker</h2>
 	    <img class="image" src="docker.png" width="200px" height="200px"></img>
-            <p></p>
+            <p>Docker is essentially a toolkit that enables developers to build, deploy, run, update, and stop containers<br>
+	    </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Azure</h2>
 	    <img class="image" src="azure.png" width="200px" height="200px"></img>
-            <p> </p>
+            <p> Azure is a professional cloud services platform offered by Microsoft. Thanks to the advanced functionalities, you can start virtual machines, SQL databases, you can create backups for existing resources and you can do much more, without fear of malfunctions or the obsolescence of equipment and software.<br>
+	We used Azure to create 2 virtual machines, one for the Jenkins and Docker, and one for Tomcat.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Future Improvements</h2>
 	    <img class="image" src="cs.jpg" width="200px" height="200px"></img>
-            <p></p>
+            <p>
+As future improvements I would see the following:<br>
+1)
+Every time we start the virtual machines, the ip changes, so we have to go into Jenkins to change the ip from Tomcat, in the job that deploys for Tomcat.<br>
+2)We need to modify so that both VMs open simultaneously, so that we don't have to open them separately.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
