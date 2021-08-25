@@ -71,7 +71,7 @@
 	    You just fork a project, make your changes and then send them a pull request(exactly what we did for the webpage).<br>
 	    GitHub is a repository.<br>
 	    GitHub can integrate with a lot of platforms.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://github.com/" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Jenkins</h2>
@@ -80,7 +80,7 @@
 	
 		    We used Jenkins to build and test the software project continuously.<br> We also used Jenkins to continuously deliver the software by integrating with Tomcat.
 	</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://circleci.com/migrate-jenkins-to-circleci/?utm_source=gnb&utm_medium=SEM&utm_campaign=SEM-gnb-Jenkins-Eng-emea&utm_content=SEM-gnb-Jenkins-Eng-emea-Jenkins&gclid=EAIaIQobChMI7oC2s7DM8gIVDNWyCh1c-gTuEAAYASAAEgLNCPD_BwE" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Maven</h2>
@@ -89,7 +89,7 @@
 		    Instead of downloading and placing the jars files manually in the project, we used maven to automate the process.
 		    <br>
 	</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://maven.apache.org/" role="button">View details &raquo;</a></p>
         </div>
     </div>
 	
@@ -101,14 +101,14 @@
 	    <img class="image" src="docker.png" width="200px" height="200px"></img>
             <p>Docker is essentially a toolkit that enables developers to build, deploy, run, update, and stop containers<br>
 	    </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://docs.docker.com/engine/reference/commandline/images/" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Azure</h2>
 	    <img class="image" src="azure.png" width="200px" height="200px"></img>
             <p> Azure is a professional cloud services platform offered by Microsoft. Thanks to the advanced functionalities, you can start virtual machines, SQL databases, you can create backups for existing resources and you can do much more, without fear of malfunctions or the obsolescence of equipment and software.<br>
 	We used Azure to create 2 virtual machines, one for the Jenkins and Docker, and one for Tomcat.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://azure.microsoft.com/en-us/" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Future Improvements</h2>
