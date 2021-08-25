@@ -123,12 +123,8 @@
 	<h2>Future Improvements</h2>
 	<img class="image" src="cs.jpg" width="200px" height="200px"></img>
 	<p>As future improvements I would see the following:<br>
-1)
-Every time we start the virtual machines, the ip changes, so we have
- to go into Jenkins to change the ip from Tomcat, in the job that
- deploys for Tomcat.<br>
-2)We need to modify so that both VMs open simultaneously, so that we 
-don't have to open them separately.
+1)Static ip<br>
+2)VMs open simultaneously
 
 </p>
 	
