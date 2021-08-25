@@ -76,7 +76,7 @@
         <div class="col-md-4">
             <h2>Jenkins</h2>
 	    <img class="image" src="jenkins.jpg" width="200px" height="200px"></img>
-            <p>Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes.Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes.<br>
+            <p>Jenkins is an open-source automation tool written in Java with plugins built for Continuous Integration purposes.<br>
 	
 		    We used Jenkins to build and test the software project continuously.<br> We also used Jenkins to continuously deliver the software by integrating with Tomcat.
 	</p>
