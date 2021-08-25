@@ -66,7 +66,7 @@
         <div class="col-md-4">
             <h2></h2>
             <p></p>
-            <p><a class="btn btn-default" href="https://www.porsche.com/central-eastern-europe/en/_romania_/modelstart/all/?modelrange=panamera" role="button">Buyld Your Own &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://www.porsche.com/central-eastern-europe/en/_romania_/modelstart/all/?modelrange=panamera" role="button">Build Your Own &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2></h2>
