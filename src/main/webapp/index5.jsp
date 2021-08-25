@@ -55,7 +55,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>My experience</h1>
-        <p>In a DevOps project at Porsche Engeniring</p>
+        <p>In a DevOps project at Porsche Engineeniring...</p>
         <img class="image" src="pe.jpg" width="100%" height="450px"></img>
     </div>
 </div>
@@ -64,19 +64,20 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Ce am invatat</h2>
-            <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <h2>
+What I liked the most...</h2>
+            <p>I really liked it when I managed to make the first version of the web page that used continuous integration and deployment.</p>
+            
         </div>
         <div class="col-md-4">
-            <h2>Desfasurarea proiectului pe etape</h2>
-            <p> </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <h2>What difficulties I encountered...</h2>
+            <p>I think the biggest difficulty I've encountered is restarting the virtual machine on which Tomcat was running, and resuming the configuration from the beginning. I made this change at the suggestion of my mentors, because bandwidth cost me almost 80 euros in 3 days. </p>
+            
         </div>
         <div class="col-md-4">
-            <h2>Parere personala despre aceasta experienta</h2>
-            <p></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <h2>Personal opinion about what I did...</h2>
+            <p>Personally, I think it is an experience from which I learned many interesting things. And maybe I'll even head for a career in the DevOps area. I regret that it took place online, because maybe we would have learned more at the office. I want to thank my mentors for their patience, and I apologize if I hit a late target.</p>
+            
         </div>
     </div>
 
