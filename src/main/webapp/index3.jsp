@@ -57,7 +57,7 @@
         <h2>
 What I learned about devops?<br><br></h2>
         <p></p>
-        <img class="image" src="devops.png" width="100%" height="500px"></img>
+        <img class="image" src="devops.png" width="100%" height="550px"></img>
     </div>
 </div>
 
